@@ -1,2 +1,5 @@
-rootProject.name = 'WCoins'
+rootProject.name = "WCoins"
 
+include 'api'
+include 'paper'
+include 'velocity'
