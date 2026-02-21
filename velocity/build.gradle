@@ -1,5 +1,3 @@
-package me.penguinx13.wCoins.paper
-
 plugins {
     id 'java'
 }

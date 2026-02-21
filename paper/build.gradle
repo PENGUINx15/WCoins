@@ -1,5 +1,3 @@
-package me.penguinx13.wCoins.api
-
 plugins {
     id 'java'
 }
